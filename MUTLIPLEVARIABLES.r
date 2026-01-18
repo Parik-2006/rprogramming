@@ -1,0 +1,4 @@
+NUM <- NUM1 <- NUM2 <- 5
+NUM
+NUM1
+NUM2
